@@ -36,6 +36,11 @@ Plant.create!([
     name: 'Fiddle Leaf Fig',
     image: './images/fiddle-leaf-fig.jpg',
     price: 55
+  },
+  {
+    name: "Dracena Janet",
+    image: "https://media.istockphoto.com/id/1303492881/photo/potted-dracaena-janet-craig-dragon-plant-or-water-stick-plant.jpg?s=612x612&w=0&k=20&c=O9TbkmNa26S4m9iTWhPspIMRisRH61L5H2oE-n4b8dA=",
+    price: 66.9
   }
 ])
 
